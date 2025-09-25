@@ -1,0 +1,24 @@
+[submodule "LuaSnip"]
+	path = LuaSnip
+	url = https://github.com/L3MON4D3/LuaSnip.git
+[submodule "cmp-nvim-lsp"]
+	path = cmp-nvim-lsp
+	url = https://github.com/hrsh7th/cmp-nvim-lsp.git
+[submodule "lualine.nvim"]
+	path = lualine.nvim
+	url = https://github.com/nvim-lualine/lualine.nvim.git
+[submodule "nvim-cmp"]
+	path = nvim-cmp
+	url = https://github.com/hrsh7th/nvim-cmp.git
+[submodule "nvim-lspconfig"]
+	path = nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig
+[submodule "nvim-tree.lua"]
+	path = nvim-tree.lua
+	url = https://github.com/nvim-tree/nvim-tree.lua.git
+[submodule "nvim-web-devicons"]
+	path = nvim-web-devicons
+	url = https://github.com/nvim-tree/nvim-web-devicons.git
+[submodule "onedark.nvim"]
+	path = onedark.nvim
+	url = https://github.com/navarasu/onedark.nvim.git
