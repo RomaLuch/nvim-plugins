@@ -28,3 +28,6 @@
 [submodule "telescope.nvim"]
 	path = telescope.nvim
 	url = https://github.com/nvim-telescope/telescope.nvim.git
+[submodule "nvim-jdtls"]
+	path = nvim-jdtls
+	url = https://github.com/mfussenegger/nvim-jdtls.git
