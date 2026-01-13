@@ -1,33 +1,33 @@
 [submodule "LuaSnip"]
-	path = LuaSnip
+	path = vendor/start/LuaSnip
 	url = https://github.com/L3MON4D3/LuaSnip.git
 [submodule "cmp-nvim-lsp"]
-	path = cmp-nvim-lsp
+	path = vendor/start/cmp-nvim-lsp
 	url = https://github.com/hrsh7th/cmp-nvim-lsp.git
 [submodule "lualine.nvim"]
-	path = lualine.nvim
+	path = vendor/start/lualine.nvim
 	url = https://github.com/nvim-lualine/lualine.nvim.git
 [submodule "nvim-cmp"]
-	path = nvim-cmp
+	path = vendor/start/nvim-cmp
 	url = https://github.com/hrsh7th/nvim-cmp.git
 [submodule "nvim-lspconfig"]
-	path = nvim-lspconfig
+	path = vendor/start/nvim-lspconfig
 	url = https://github.com/neovim/nvim-lspconfig
 [submodule "nvim-tree.lua"]
-	path = nvim-tree.lua
+	path = vendor/start/nvim-tree.lua
 	url = https://github.com/nvim-tree/nvim-tree.lua.git
 [submodule "nvim-web-devicons"]
-	path = nvim-web-devicons
+	path = vendor/start/nvim-web-devicons
 	url = https://github.com/nvim-tree/nvim-web-devicons.git
 [submodule "onedark.nvim"]
-	path = onedark.nvim
+	path = vendor/start/onedark.nvim
 	url = https://github.com/navarasu/onedark.nvim.git
 [submodule "plenary.nvim"]
-	path = plenary.nvim
+	path = vendor/start/plenary.nvim
 	url = https://github.com/nvim-lua/plenary.nvim.git
 [submodule "telescope.nvim"]
-	path = telescope.nvim
+	path = vendor/start/telescope.nvim
 	url = https://github.com/nvim-telescope/telescope.nvim.git
 [submodule "nvim-jdtls"]
-	path = nvim-jdtls
+	path = vendor/start/nvim-jdtls
 	url = https://github.com/mfussenegger/nvim-jdtls.git
