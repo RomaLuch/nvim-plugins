@@ -31,3 +31,6 @@
 [submodule "nvim-jdtls"]
 	path = vendor/start/nvim-jdtls
 	url = https://github.com/mfussenegger/nvim-jdtls.git
+[submodule "vendor/start/nvim-treesitter"]
+	path = vendor/start/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter.git
